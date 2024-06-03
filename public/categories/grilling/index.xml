@@ -6,8 +6,15 @@
     <description>Recent content in Grilling on Greg&#39;s Journal</description>
     <generator>Hugo -- 0.126.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2024 20:03:40 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 21:23:13 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/grilling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Kamado</title>
+      <link>http://localhost:1313/journal/new-kamado/</link>
+      <pubDate>Sun, 02 Jun 2024 21:23:13 -0400</pubDate>
+      <guid>http://localhost:1313/journal/new-kamado/</guid>
+      <description>Last month I ordered a Kamado Joe Big Joe 3</description>
+    </item>
     <item>
       <title>First Post</title>
       <link>http://localhost:1313/journal/first-post/</link>

@@ -1,0 +1,17 @@
+baseURL: 'https://gregpelle.github.io/'
+languageCode: 'en-us'
+title: "Greg's Journal"
+theme: 'PaperMod'
+
+menu:
+    main:
+        - identifier: categories
+          name: 'Categories'
+          url: '/categories'
+        - identifier: Tags
+          name: 'Tags'
+          url: /tags
+
+params:
+    env: 'production'
+    
