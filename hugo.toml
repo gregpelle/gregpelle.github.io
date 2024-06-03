@@ -1,0 +1,4 @@
+baseURL = 'https://gregpelle.github.io/'
+languageCode = 'en-us'
+title = "Greg's Journal"
+theme = 'PaperMod'
